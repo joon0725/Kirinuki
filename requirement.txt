@@ -1,0 +1,6 @@
+opencv-python
+numpy
+glob
+scipy
+matplotlib
+tensorflow
